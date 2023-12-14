@@ -1,2 +1,2 @@
 # KFC_Online
-https://khanafzal17.github.io/KFC_Online/
+https://sharique20.github.io/KFC_Online/
